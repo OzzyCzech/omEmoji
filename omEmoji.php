@@ -4,7 +4,7 @@ Plugin Name: omEmoji
 Description: Emoticons from http://www.emoji-cheat-sheet.com/ for Wordpress
 Version: 1.0
 Author: Roman Ožana
-Author URI: http://www.omdesign.cz
+Author URI: https://ozana.cz
 */
 
 add_action(
